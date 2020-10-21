@@ -39,10 +39,6 @@ disqusShortname = ""
   [params.navigation]
     title = "Bryce Erickson"
     subtitle = "R Portfolio"
-
-    title = "Forty"
-    subtitle = "By HTML5 Up"
-   
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
