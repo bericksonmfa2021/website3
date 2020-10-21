@@ -6,4 +6,4 @@ slug: blogs
 title: Lifestyle
 ---
 
-My blogs about technology and lifestyle.
+THIS IS BRYCES SITE. Nice, innit.
