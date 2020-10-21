@@ -37,13 +37,12 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-<<<<<<< HEAD
     title = "Bryce Erickson"
     subtitle = "R Portfolio"
-=======
+
     title = "Forty"
     subtitle = "By HTML5 Up"
->>>>>>> parent of d821584... helpful meessage 2: Electric Bogaloo
+   
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
