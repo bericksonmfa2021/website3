@@ -37,8 +37,13 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
+<<<<<<< HEAD
     title = "Bryce Erickson"
     subtitle = "R Portfolio"
+=======
+    title = "Forty"
+    subtitle = "By HTML5 Up"
+>>>>>>> parent of d821584... helpful meessage 2: Electric Bogaloo
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -81,8 +86,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Slim Shady"
-    subtitle = "A Nice, innit."
+    title = "Hi, my name is Forty"
+    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
 
